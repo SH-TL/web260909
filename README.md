@@ -1,4 +1,4 @@
-[내가 만든 사이트로 가기](https://leafy-dodol-6715c9.netlify.app/)
+[내가 만든 사이트로 가기](https://web0909.netlify.app/)
 # 오늘의 주요 수업 내용
 
 - HTML 구조 파악
